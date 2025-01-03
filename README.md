@@ -22,7 +22,7 @@ To get started, clone the repository and install the required packages.
 
 ```bash
 git clone https://github.com/Amanrawat17/CV_YOLO_FACEDETECTION.git
-cd Yolo11-Face-Emotion-Detection
+cd CV_YOLO_FACEDETECTION
 
 ```
 
