@@ -8,7 +8,6 @@ This project implements a face emotion detection system using YOLOv11, trained o
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 
 ## Features
@@ -22,9 +21,9 @@ This project implements a face emotion detection system using YOLOv11, trained o
 To get started, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/alihassanml/Yolo11-Face-Emotion-Detection.git
+git clone https://github.com/Amanrawat17/CV_YOLO_FACEDETECTION.git
 cd Yolo11-Face-Emotion-Detection
-pip install -r requirements.txt
+
 ```
 
 Make sure you have the following dependencies installed:
@@ -83,9 +82,7 @@ cv2.destroyAllWindows()
 
 The results are visualized using OpenCV, displaying the detected emotions in real-time.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
